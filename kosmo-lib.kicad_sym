@@ -54,7 +54,7 @@
     )
   )
   (symbol "DMMT5551" (pin_names hide) (in_bom yes) (on_board yes)
-    (property "Reference" "U" (id 0) (at -11.43 10.16 0)
+    (property "Reference" "Q" (id 0) (at -11.43 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "DMMT5551" (id 1) (at -11.43 7.62 0)
